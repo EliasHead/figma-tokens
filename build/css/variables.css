@@ -1,9 +1,12 @@
 /**
  * Do not edit directly
- * Generated on Wed, 07 Dec 2022 14:07:35 GMT
+ * Generated on Wed, 07 Dec 2022 15:57:50 GMT
  */
 
 :root {
+  --sizes-2: 8;
+  --sizes-4: 16;
+  --sizes-8: 32;
   --color-white: #ffffff;
   --color-gray-200: #c1c1c4;
   --color-gray-500: #50505c;
